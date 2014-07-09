@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<div class= "banner">
+  <h1>My name is Amelia Fannin,</h1> 
+  <h1>I'd like to work with you.</h1>
+</div>
+
+##You need a fast-learning, experience-hungry, Ruby developer.
+
+##I want to contribute to—and learn from—an experienced web development team. 
+
+#### How do you get from Ravel to Ruby?
+After years as an orchestral bassoonist and music teacher, I am looking for a new challenge. Web development offers great opportunities for creative problem solving and a never-ending set of challenges. The strategies that I used to become an expert musician - study, critique, and practice - are just as useful when learning to use a coding language like Ruby or Go.
+
+I started this adventure by learning a little javascript and css, but soon became more interested in Ruby. I have completed a number of Ruby and Rails tutorials, attended RailsBridge Boston, solved the Ruby Exercism.io problems 1-6, and completed the first 50 Project Euler problems in Ruby.  Lately I've been picking up a little Go and have used it to solve Eulers 1-7. 
+
+#### Education & Experience
+I've earned four degrees in music but only my mother calls me "Dr. Fannin." I worked my way through school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and generally keeping the musicians organized. Before moving to Cambridge a little over a year ago, I taught music at Howard Community College in Columbia, Maryland. I've performed with orchestras and opera companies from Florida to Massachusetts but I'm ready to try something new.
+
+<div class= "col">
+  <h3>Code Samples</h3>
+  <ul>
+    <li>I built this site using Jekyll</li>
+    <li>Project Euler problems 1 - 50 in Ruby <a href="https://github.com/AmeliaFannin/euler">Github Repo</a></li>
+    <li>Project Euler problems 1 - 7 in Go <a href="https://github.com/AmeliaFannin/euler/tree/master/go">Github Repo</a></li>
+    <li>Exercism.io Ruby problems 1 - 6</li>
+    <li><a href="https://github.com/AmeliaFannin/seed-catalog">Silly Seed-Catalog Ruby App</a></li>
+  </ul>
+</div>
+
+<div class= "col">
+  <h3>Skills</h3>
+  <ul>
+    <li>Ruby</li>
+    <li>Go</li>
+    <li>Rails</li> 
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>(basic) Javascript</li>
+  </ul>
+</div>
+
+<div class= "col">
+  <h3><a href="https://AmeliaFannin.gihub.io/about">Resume</a></h3>
+</div>
+
+
+
+

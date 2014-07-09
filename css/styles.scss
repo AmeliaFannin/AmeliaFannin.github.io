@@ -1,0 +1,41 @@
+---
+---
+@import "reset";
+
+
+body {
+  
+  box-sizing: border-box;
+  color: #2E3B59;
+  line-height: 1.6;
+  margin: 2rem;
+  padding: 1rem;
+
+}
+h1 { font-size: 2.8rem; }
+h2 { font-size: 1.8rem; font-weight: bold; font-style: italic; }
+h3 { font-size: 1.8rem; font-weight: bold; }
+h4 { font-size: 1.8rem; }
+h5 { font-size: 1rem; }
+h6 { font-size: 0.8rem; font-weight: bold; }
+
+p { font_size: 1.6rem; margin: 0rem 0rem 1rem 0rem}
+
+.col { float:left;}
+.banner{ background-color: #445785; color: #FFFFFF; padding: 1rem;
+
+}
+
+a { color: #F08F11;
+
+}
+ul,
+ol {
+  margin-top: 0.5rem;
+}
+ul {
+  list-style: disc;
+}
+li {
+  margin-left: 1.5rem;
+}
