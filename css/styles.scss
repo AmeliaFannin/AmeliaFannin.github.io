@@ -1,41 +1,136 @@
 ---
 ---
 @import "reset";
+@import "fontello";
+
+$background-color: #fff; // #F7FFE8;
+$sixty-percent: #393D29;
+$thirty-percent: #E5DFD0;
+$ten-percent: #6FB8FF;
+$highlight: #B23400;
 
 
 body {
-  
   box-sizing: border-box;
-  color: #2E3B59;
+  color: $sixty-percent;
   line-height: 1.6;
-  margin: 2rem;
-  padding: 1rem;
-
-}
-h1 { font-size: 2.8rem; }
-h2 { font-size: 1.8rem; font-weight: bold; font-style: italic; }
-h3 { font-size: 1.8rem; font-weight: bold; }
-h4 { font-size: 1.8rem; }
-h5 { font-size: 1rem; }
-h6 { font-size: 0.8rem; font-weight: bold; }
-
-p { font_size: 1.6rem; margin: 0rem 0rem 1rem 0rem}
-
-.col { float:left;}
-.banner{ background-color: #445785; color: #FFFFFF; padding: 1rem;
-
+  background-color: $background-color;  
 }
 
-a { color: #F08F11;
+h1 { font-size: 3rem; }
 
+h2 { font-size: 2rem; }
+
+h3 { font-size: 2rem; 
 }
+
+h4 { font-size: 1.8rem;
+  font-weight: bold;
+  padding-top: 1rem;
+ }
+
+h5 { font-size: 1.5rem;
+  padding-top:1rem;
+}
+
+a { 
+  color: $highlight;
+
+  &:visited {
+    color: $highlight;
+  }
+  &:hover {
+    color: $ten-percent;
+  }
+}
+
 ul,
 ol {
   margin-top: 0.5rem;
+
+  ul,
+  ol {
+    margin-top: 0;
+  }
 }
+
 ul {
   list-style: disc;
 }
+
 li {
   margin-left: 1.5rem;
+}
+
+.call-out {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+.header-banner {
+  background: url(/sunflower.jpg) bottom left; 
+  color: $background-color;
+
+  height: 100vh;
+
+  .salutation {
+    padding-top: calc(33.33%);
+    font-size: 3rem
+  }
+
+  .greeting {
+    font-size: 3rem
+  }
+}
+
+.col { 
+  float: left; 
+  margin-right: 1rem;
+  width: calc(50% - 1rem);
+
+  &:last-child { 
+    margin-right: 0rem;
+    width: 50%;
+  }
+}
+
+.content-wrap {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.top-menu {
+  float: right;
+  a {
+    color: $background-color;
+    display: inline-block;
+    font-size: 1.8rem;
+
+    &:hover {
+      color: $ten-percent;
+    }
+    &:visited {
+      color: $background-color;
+    }
+  }
+}
+
+p {
+  padding-bottom: 1rem;
+}
+
+hr {
+  background: $highlight;
+  border: none;
+  height: 1px;
+  margin: 1rem auto;
+  width: 80%;
+}
+
+strong {
+  font-weight: bold;
+}
+em {
+  font-style: italic;
 }
