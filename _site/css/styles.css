@@ -157,7 +157,8 @@ li {
   background: url(/Sunflower.JPG) bottom left;
   background-size: auto;
   color: white;
-  height: 100vh; }
+  height: 100vh;
+  repeat: no-repeat; }
   .header-banner .salutation {
     padding-top: calc(33.33%);
     font-size: 3rem; }
