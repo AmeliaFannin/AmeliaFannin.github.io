@@ -1,0 +1,203 @@
+@charset "UTF-8";
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+@font-face {
+  font-family: 'fontello';
+  src: url("../font/fontello.eot?42406506");
+  src: url("../font/fontello.eot?42406506#iefix") format("embedded-opentype"), url("../font/fontello.woff?42406506") format("woff"), url("../font/fontello.ttf?42406506") format("truetype"), url("../font/fontello.svg?42406506#fontello") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?42406506#fontello') format('svg');
+  }
+}
+*/
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */ }
+
+.icon-mail:before {
+  content: '\e800'; }
+
+/* '' */
+.icon-phone:before {
+  content: '\e801'; }
+
+/* '' */
+.icon-github:before {
+  content: '\e802'; }
+
+/* '' */
+.icon-twitter:before {
+  content: '\e803'; }
+
+/* '' */
+body {
+  box-sizing: border-box;
+  color: #393d29;
+  line-height: 1.6;
+  background-color: white; }
+
+h1 {
+  font-size: 3rem; }
+
+h2 {
+  font-size: 2rem; }
+
+h3 {
+  font-size: 2rem; }
+
+h4 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  padding-top: 1rem; }
+
+h5 {
+  font-size: 1.5rem;
+  padding-top: 1rem; }
+
+a {
+  color: #b23400; }
+  a:visited {
+    color: #b23400; }
+  a:hover {
+    color: #6fb8ff; }
+
+ul,
+ol {
+  margin-top: 0.5rem; }
+  ul ul,
+  ul ol,
+  ol ul,
+  ol ol {
+    margin-top: 0; }
+
+ul {
+  list-style: disc; }
+
+li {
+  margin-left: 1.5rem; }
+
+.call-out {
+  padding-top: 4rem;
+  padding-bottom: 2rem; }
+
+.header-banner {
+  background: url(/sunflower.jpg) bottom left;
+  color: white;
+  height: 100vh; }
+  .header-banner .salutation {
+    padding-top: calc(33.33%);
+    font-size: 3rem; }
+  .header-banner .greeting {
+    font-size: 3rem; }
+
+.col {
+  float: left;
+  margin-right: 1rem;
+  width: calc(50% - 1rem); }
+  .col:last-child {
+    margin-right: 0rem;
+    width: 50%; }
+
+.content-wrap {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%; }
+
+.top-menu {
+  float: right; }
+  .top-menu a {
+    color: white;
+    display: inline-block;
+    font-size: 1.8rem; }
+    .top-menu a:hover {
+      color: #6fb8ff; }
+    .top-menu a:visited {
+      color: white; }
+
+p {
+  padding-bottom: 1rem; }
+
+hr {
+  background: #b23400;
+  border: none;
+  height: 1px;
+  margin: 1rem auto;
+  width: 80%; }
+
+strong {
+  font-weight: bold; }
+
+em {
+  font-style: italic; }
