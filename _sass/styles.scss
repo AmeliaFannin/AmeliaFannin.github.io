@@ -67,12 +67,12 @@ li {
 }
 
 .header-banner {
-  background: url(/Sunflower.JPG) bottom left;
-  background-size: auto;
+  background: url(/Sunflower.JPG) no-repeat bottom left fixed; 
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+          background-size: cover;
   color: $background-color;
   height: 100vh;
-  repeat: no-repeat;
-  
 
   .salutation {
     padding-top: calc(33.33%);
@@ -84,6 +84,12 @@ li {
   }
 }
 
+@media screen and (max-width: 520px) {
+  .header-banner {
+    height: auto;
+  }
+}
+
 .col { 
   float: left; 
   margin-right: 1rem;
@@ -92,6 +98,17 @@ li {
   &:last-child { 
     margin-right: 0rem;
     width: 50%;
+  }
+}
+@media screen and (max-width: 520px) {
+  .col { 
+    float: none; 
+    margin-right: 0;
+    width: auto;
+
+    &:last-child { 
+      width: auto;
+    }
   }
 }
 
