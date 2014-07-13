@@ -155,6 +155,7 @@ li {
 
 .header-banner {
   background: url(/Sunflower.JPG) bottom left;
+  background-size: cover;
   color: white;
   height: 100vh; }
   .header-banner .salutation {

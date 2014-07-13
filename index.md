@@ -66,7 +66,7 @@ I can't say I was programming at the age of 3, but I have always loved puzzles, 
 ## Amelia Fannin
 **[ameliafannin@gmail.com](mailto://ameliafannin@gmail.com)**    
 **[ameliafannin.com](http://ameliafannin.com)** | **[ameliafannin.com/blog](http://ameliafannin.com/blog)**    
-**[(713)444-0081](tel://7134440081)**
+**(713)444-0081**
 
 ##### Education
 * **Doctor of Music** *2009* - The Florida State University 

@@ -67,10 +67,11 @@ li {
 }
 
 .header-banner {
-  background: url(/Sunflower.JPG) bottom left; 
+  background: url(/Sunflower.JPG) bottom left;
+  background-size: cover;
   color: $background-color;
-
   height: 100vh;
+  
 
   .salutation {
     padding-top: calc(33.33%);
