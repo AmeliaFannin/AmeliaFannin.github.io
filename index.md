@@ -55,7 +55,7 @@ I've earned four music degrees but only my mother calls me "Dr. Fannin." I worke
 </div>
 
 ####About Me
-Growing up "granola," I can't say I was programming at the age of 3, but I have always loved puzzles, reading, learning, and building things.  When something interests me I like to do the research, get involved, and become an expert. I natter on about gardening and food on my blog, <a href="ameliafannin.com/blog" target="blank">ameliafannin.com/blog</a>, and write the monthly newsletter for my community garden.  I like dogs, traveling, trying new foods, arts and crafts, and craft beer.  
+I can't say I was programming at the age of 3, but I have always loved puzzles, reading, learning, and building things.  When something interests me I like to do the research, get involved, and become an expert. I natter on about gardening and food on my blog, <a href="https://ameliafannin.com/blog" target="blank">ameliafannin.com/blog</a>, and write the monthly newsletter for my community garden.  I like dogs, traveling, trying new foods, arts and crafts, and craft beer.  
 
 ---
 
