@@ -120,7 +120,8 @@ h3 {
 h4 {
   font-size: 1.8rem;
   font-weight: bold;
-  padding-top: 1rem; }
+  padding-top: 1rem;
+  clear: both; }
 
 h5 {
   font-size: 1.5rem;
