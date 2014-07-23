@@ -6,7 +6,7 @@ layout: index
 #### How do you get from Ravel to Ruby?
 After years as an orchestral bassoonist and music teacher, I am looking for a new challenge. Software development offers great opportunities for creative problem solving and a never-ending set of challenges. The strategies that I used to become an expert musician - study, critique, and practice - are just as useful when learning a language like Ruby or Go.
 
-I started this adventure by learning a little javascript and css, but soon became more interested in Ruby. Things got serious when I found myself solving math and logic problems to "relax." I have solved the first 50 Project Euler problems in Ruby, completed the Ruby Exercism.io problems 1-6, worked through a number of Ruby and Rails tutorials, and attended RailsBridge Boston. Lately I've been picking up a little Go and have used it to re-solve Eulers 1-7.    
+I started this adventure by learning a little javascript and css, but soon became more interested in Ruby. Things got serious when I found myself solving math and logic problems to "relax." I have solved the first 50 Project Euler problems in Ruby, completed the Ruby Exercism.io problems 1-6, worked through a number of Ruby and Rails tutorials, and attended RailsBridge Boston. Lately I've been picking up a little Go and brushing up on javascript.    
 
 
 #### Education & Experience
@@ -24,10 +24,19 @@ I've earned four music degrees but only my mother calls me "Dr. Fannin." I worke
     </li>
     <li>
       Exercism.io Ruby problems 1 - 6
+      <a href="https://github.com/AmeliaFannin/Exercism-Ruby" target="_blank">
+        Github Repo
+      </a>
     </li>
     <li>
       Project Euler problems 1 - 7 in Go
       <a href="https://github.com/AmeliaFannin/euler/tree/master/go" target="_blank">
+        Github Repo
+      </a>
+    </li>
+    <li>
+      simple_prime, a Go package that returns a channel of prime numbers
+      <a href="https://github.com/AmeliaFannin/simple_prime" target="_blank">
         Github Repo
       </a>
     </li>
@@ -84,17 +93,16 @@ I can't say I was programming at the age of 3, but I have always loved puzzles, 
 * (basic) Javascript
 
 ##### Projects
-* Project Euler problems 1 - 50 in Ruby [Github repo](https://github.com/AmeliaFannin/euler)
-* Project Euler problems 1 - 7 in Go [Github repo](https://github.com/AmeliaFannin/euler/tree/master/go)
-* Exercism.io Ruby problems 1 - 4
-* Completed [Getting started with Rails](http://guides.rubyonrails.org/getting_started.html)
-* Completed [Pragmatic Studio: Ruby Programming](http://pragmaticstudio.com/ruby)
-* Currently Completing [Hartl: Rails Tutorial](http://www.railstutorial.org/)
-* [Seed Catalog Rails App ](https://github.com/AmeliaFannin/seed-catalog)
-* CodeAcademy Javascript, Web Projects, Ruby
+* Project Euler problems 1 - 50 in Ruby 
+* Exercism.io Ruby problems 1 - 6
+* Project Euler problems 1 - 7 in Go
+* simple_prime, a Go package that returns a channel of prime numbers
+* Project Euler problems 1 - 3 in javascript 
+* Seed Catalog Rails App 
 
 ##### Community Events
 * RailsBridge Boston, January 2014
+* Boston Ruby Women meetups
 
 ##### Employment
 * **Freelance Orchestral Musician & Teacher** *2001 - present*
