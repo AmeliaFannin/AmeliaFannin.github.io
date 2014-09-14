@@ -4,9 +4,9 @@ layout: index
 
 
 #### How do you get from Ravel to Ruby?
-After years as an orchestral bassoonist and music teacher, I am looking for a new challenge. Software development offers great opportunities for creative problem solving and a never-ending set of challenges. The strategies that I used to become an expert musician - study, critique, and practice - are just as useful when learning a language like Ruby or Go.
+After years as an orchestral bassoonist and music teacher, I am looking for a new challenge. Software development offers great opportunities for creative problem solving and a never-ending set of challenges. The strategies that I used to become an expert musician - study, critique, and practice - are just as useful when learning a language like Ruby.
 
-I started this adventure by learning a little javascript and css, but soon became more interested in Ruby. Things got serious when I found myself solving math and logic problems to "relax." I have solved the first 50 Project Euler problems in Ruby, completed the Ruby Exercism.io problems 1-6, worked through a number of Ruby and Rails tutorials, and attended RailsBridge Boston. Lately I've been picking up a little Go and brushing up on javascript.    
+I started this adventure by learning a little javascript and css, but soon became more interested in Ruby. Things got serious when I found myself solving math and logic problems to "relax." I have solved the first 56 Project Euler problems in Ruby, completed the Ruby Exercism.io problems 1-6, worked through a number of Ruby and Rails tutorials, and attended and volunteered with RailsBridge Boston. Lately I've been picking up a little Go and brushing up on javascript.
 
 
 #### Education & Experience
@@ -17,7 +17,7 @@ I've earned four music degrees but only my mother calls me "Dr. Fannin." I worke
   <h3>Code Samples</h3>
   <ul>
     <li>
-      Project Euler problems 1 - 50 in Ruby
+      Project Euler problems 1 - 56 in Ruby
       <a href="https://github.com/AmeliaFannin/euler" target="_blank">
         Github Repo
       </a>
@@ -55,8 +55,8 @@ I've earned four music degrees but only my mother calls me "Dr. Fannin." I worke
   <h3>Skills</h3>
   <ul>
     <li>Ruby</li>
-    <li>Go</li>
-    <li>Rails</li> 
+    <li>Rails</li>
+    <li>Go</li> 
     <li>HTML</li>
     <li>CSS</li>
     <li>(basic) Javascript</li>
@@ -69,7 +69,7 @@ I can't say I was programming at the age of 3, but I have always loved puzzles, 
 ---
 
 <div class="resume-head">
-  <h2>Resume</h2>
+  <h2><a href="/fannin_resume_2014.pdf" rel="download">Resume</a></h2>
 </div>
 
 ## Amelia Fannin
@@ -86,14 +86,14 @@ I can't say I was programming at the age of 3, but I have always loved puzzles, 
 
 ##### Skills
 * Ruby
-* Go
-* Rails 
+* Rails
+* Go 
 * HTML
 * CSS
 * (basic) Javascript
 
 ##### Projects
-* Project Euler problems 1 - 50 in Ruby 
+* Project Euler problems 1 - 56 in Ruby 
 * Exercism.io Ruby problems 1 - 6
 * Project Euler problems 1 - 7 in Go
 * simple_prime, a Go package that returns a channel of prime numbers
@@ -101,8 +101,9 @@ I can't say I was programming at the age of 3, but I have always loved puzzles, 
 * Seed Catalog Rails App 
 
 ##### Community Events
-* RailsBridge Boston, January 2014
-* Boston Ruby Women meetups
+* RailsBridge Boston (teaching assistant), September 2014
+* RailsBridge Boston (attendee), January 2014
+* Boston RB, Boston Ruby Women, and BostonJS meetups
 
 ##### Employment
 * **Freelance Orchestral Musician & Teacher** *2001 - present*
