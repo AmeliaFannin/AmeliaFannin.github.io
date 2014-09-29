@@ -1,0 +1,7 @@
+$ mkvirtualenv name # creates a new virtualenv
+$ deactivate        # deactivates the virtualenv
+$ workon name       # activates a virtualenv
+$ pip install       # installs a pip package
+$ pip install -r requirements.txt    # installs all deps from a requirements file (like a Gemfile)
+
+$ npm install

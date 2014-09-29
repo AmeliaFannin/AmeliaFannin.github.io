@@ -62,11 +62,6 @@ li {
   margin-left: 1.5rem;
 }
 
-.call-out {
-  padding-bottom: 2rem;
-  padding-top: 4rem;
-}
-
 .header-banner {
   background: url(/sunflower.jpg) no-repeat bottom left fixed; 
   -webkit-background-size: cover;
@@ -74,6 +69,7 @@ li {
           background-size: cover;
   color: $background-color;
   height: 100vh;
+  min-height: 640px;
   text-shadow: 1px 1px 2px #000;
 
   .salutation {
@@ -83,6 +79,11 @@ li {
 
   .greeting {
     font-size: 3rem
+  }
+
+  .call-out {
+    padding-bottom: 2rem;
+    padding-top: 4rem;
   }
 }
 

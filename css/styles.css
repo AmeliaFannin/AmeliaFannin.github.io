@@ -149,10 +149,6 @@ ul {
 li {
   margin-left: 1.5rem; }
 
-.call-out {
-  padding-bottom: 2rem;
-  padding-top: 4rem; }
-
 .header-banner {
   background: url(/sunflower.jpg) no-repeat bottom left fixed;
   -webkit-background-size: cover;
@@ -160,12 +156,16 @@ li {
   background-size: cover;
   color: white;
   height: 100vh;
+  min-height: 640px;
   text-shadow: 1px 1px 2px #000; }
   .header-banner .salutation {
     padding-top: calc(33.33%);
     font-size: 3rem; }
   .header-banner .greeting {
     font-size: 3rem; }
+  .header-banner .call-out {
+    padding-bottom: 2rem;
+    padding-top: 4rem; }
 
 @media screen and (max-width: 520px) {
   .header-banner {
