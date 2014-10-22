@@ -4,33 +4,31 @@ layout: index
 
 
 #### How do you get from Ravel to Ruby?
-After years as an orchestral bassoonist and music teacher, I am looking for a new challenge. Software development offers great opportunities for creative problem solving and a never-ending set of challenges. The strategies that I used to become an expert musician - study, critique, and practice - are just as useful when learning a language like Ruby.
+ 
 
-I started this adventure by learning a little javascript and css, but soon became more interested in Ruby. Things got serious when I found myself solving math and logic problems to "relax." I have solved the first 56 Project Euler problems in Ruby, completed the Ruby Exercism.io problems 1-6, worked through a number of Ruby and Rails tutorials, and attended and volunteered with RailsBridge Boston. Lately I've been picking up a little Go and brushing up on javascript.
-
-
-#### Education & Experience
-
-I've earned four music degrees but only my mother calls me "Dr. Fannin." I worked my way through school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and generally keeping the musicians organized. Before moving to Cambridge a little over a year ago, I taught music at Howard Community College in Columbia, Maryland. I've performed with orchestras and opera companies from Florida to Massachusetts but I'm ready to do something different.
+ After years as an orchestral bassoonist and music teacher, I wanted a new challenge. I started by learning a little javascript and css, but soon became interested in Ruby. Things got serious when I found myself coding solutions to math and logic problems for fun. I have solved the first 57 Project Euler problems in Ruby, created a few Rails practice apps, and attended and volunteered with RailsBridge Boston. Lately I've been picking up a little Go and brushing up on Javascript and Python. The strategies that I used to become an expert musician - study, critique, and practice - are just as useful when learning a language like Ruby. A career in software development offers great opportunities for creative problem solving and a never-ending set of challenges -- and no one is required to wear a tuxedo.
 
 <div class="col">
   <h3>Code Samples</h3>
   <ul>
     <li>
-      Project Euler problems 1 - 56 in Ruby
+      <a href="https://young-sands-6021.herokuapp.com" target="_blank">
+        Chitter
+      </a>
+       , a Rails practice project resembling Twitter
+      <a href="https://github.com/AmeliaFannin/chitter_app" target="_blank">
+        Github Repo
+      </a>
+    </li>
+    <li>
+      Project Euler problems 1 - 57 in Ruby, Go, Javascript, and Python
       <a href="https://github.com/AmeliaFannin/euler" target="_blank">
         Github Repo
       </a>
     </li>
     <li>
-      Exercism.io Ruby problems 1 - 6
+      Exercism.io "Roman Numeral Translator"
       <a href="https://github.com/AmeliaFannin/Exercism-Ruby" target="_blank">
-        Github Repo
-      </a>
-    </li>
-    <li>
-      Project Euler problems 1 - 7 in Go
-      <a href="https://github.com/AmeliaFannin/euler/tree/master/go" target="_blank">
         Github Repo
       </a>
     </li>
@@ -41,12 +39,10 @@ I've earned four music degrees but only my mother calls me "Dr. Fannin." I worke
       </a>
     </li>
     <li>
-      <a href="https://github.com/AmeliaFannin/seed-catalog" target="_blank">
-        Silly Seed-Catalog Ruby App
-      </a>
-    </li>
-    <li>
       I built this site using Jekyll
+      <a href="https://github.com/AmeliaFannin/AmeliaFannin.github.io" target="_blank">
+        Github Repo
+      </a>
     </li>
   </ul>
 </div>
@@ -64,8 +60,10 @@ I've earned four music degrees but only my mother calls me "Dr. Fannin." I worke
 </div>
 
 ####About Me
-I can't say I was programming at the age of 3, but I have always loved puzzles, reading, learning, and building things.  When something interests me I like to do the research, get involved, and become an expert. I natter on about gardening and food on my blog, <a href="http://ameliafannin.com/blog" target="blank">ameliafannin.com/blog</a>, and write the monthly newsletter for my community garden.  I like dogs, traveling, trying new foods, arts and crafts, and craft beer.  
 
+
+ When something interests me I like to do the research, get involved, and become an expert. I've earned four music degrees but only my mother calls me "Dr. Fannin." I worked my way through school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I have always loved puzzles, reading, learning, and building things. I chatter about gardening on my blog, <a href="http://ameliafannin.com/blog" target="blank">ameliafannin.com/blog</a>, and write the monthly newsletter for the Rock Meadow Victory Gardens. 
+ 
 ---
 
 <div class="resume-head">
@@ -80,7 +78,6 @@ I can't say I was programming at the age of 3, but I have always loved puzzles, 
 ##### Education
 * **Doctor of Music** *2009* - The Florida State University 
 * **Master of Music** *2006* - Eastman School of Music 
-  * *Catherine Filene Shouse Arts Leadership Certificate*
 * **Bachelor of Music Performance** *2004* - University of North Texas
 * **Bachelor of Music Education** *2004* - University of North Texas
 
@@ -93,12 +90,10 @@ I can't say I was programming at the age of 3, but I have always loved puzzles, 
 * (basic) Javascript
 
 ##### Projects
-* Project Euler problems 1 - 56 in Ruby 
+* Chitter, a Rails practice app resembling Twitter
+* Project Euler problems 1 - 57 in Ruby, Go, Javascript, and Python 
 * Exercism.io Ruby problems 1 - 6
-* Project Euler problems 1 - 7 in Go
 * simple_prime, a Go package that returns a channel of prime numbers
-* Project Euler problems 1 - 3 in javascript 
-* Seed Catalog Rails App 
 
 ##### Community Events
 * RailsBridge Boston (teaching assistant), September 2014
