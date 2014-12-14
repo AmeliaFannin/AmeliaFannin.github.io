@@ -1,27 +1,30 @@
 ---
 layout: index
 ---
+####About Me
 
-
-#### How do you get from Ravel to Ruby?
- 
-
- After years as an orchestral bassoonist and music teacher, I wanted a new challenge. I started by learning a little javascript and css, but soon became interested in Ruby. Things got serious when I found myself coding solutions to math and logic problems for fun. I have solved the first 57 Project Euler problems in Ruby, created a few Rails practice apps, and attended and volunteered with RailsBridge Boston. Lately I've been picking up a little Go and brushing up on Javascript and Python. The strategies that I used to become an expert musician - study, critique, and practice - are just as useful when learning a language like Ruby. A career in software development offers great opportunities for creative problem solving and a never-ending set of challenges -- and no one is required to wear a tuxedo.
+ Almost three years ago I began my transition from a career in classical music to programming. I started by learning a little javascript and css, but soon became interested in Ruby. I've always loved puzzles, but things got serious when I found myself coding solutions to math and logic problems for fun. The strategies that I used to become an expert musician - study, critique, and practice - are just as relevant when learning programming. I have created apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. I attended and now volunteer as a teaching assistant with RailsBridge Boston. I am looking for new challenges, the open exchange of ideas, the stability of a salary, and the camaraderie of colleagues.  
 
 <div class="col">
   <h3>Code Samples</h3>
   <ul>
     <li>
+      Daily Birds, uses eBird API, Flask, jquery, and bootstrap to track and map local bird sightings.
+      <a href="https://github.com/AmeliaFannin/Daily_Birds" target="_blank">
+        Github Repo
+      </a>
+    </li>
+    <li>
       <a href="https://young-sands-6021.herokuapp.com" target="_blank">
         Chitter
       </a>
-       , a Rails practice project resembling Twitter
+       , a Rails project resembling Twitter
       <a href="https://github.com/AmeliaFannin/chitter_app" target="_blank">
         Github Repo
       </a>
     </li>
     <li>
-      Project Euler problems 1 - 57 in Ruby, Go, Javascript, and Python
+      Project Euler problems 1 - 58 in Ruby, Go, Javascript, and Python
       <a href="https://github.com/AmeliaFannin/euler" target="_blank">
         Github Repo
       </a>
@@ -39,7 +42,7 @@ layout: index
       </a>
     </li>
     <li>
-      I built this site using Jekyll
+      I built this site using Jekyll and Grunt
       <a href="https://github.com/AmeliaFannin/AmeliaFannin.github.io" target="_blank">
         Github Repo
       </a>
@@ -50,19 +53,20 @@ layout: index
 <div class= "col">
   <h3>Skills</h3>
   <ul>
-    <li>Ruby</li>
-    <li>Rails</li>
-    <li>Go</li> 
+    <li>Ruby, Rails and Sinatra</li>
+    <li>Python, Flask</li>
     <li>HTML</li>
-    <li>CSS</li>
-    <li>(basic) Javascript</li>
+    <li>CSS, Sass, and Bootstrap</li>
+    <li>basic Javascript</li>
+    <li>Go</li> 
   </ul>
 </div>
 
-####About Me
+
+####Background
 
 
- When something interests me I like to do the research, get involved, and become an expert. I've earned four music degrees but only my mother calls me "Dr. Fannin." I worked my way through school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I have always loved puzzles, reading, learning, and building things. I chatter about gardening on my blog, <a href="http://ameliafannin.com/blog" target="blank">ameliafannin.com/blog</a>, and write the monthly newsletter for the Rock Meadow Victory Gardens. 
+I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my way through music school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I play the bassoon and recently started learning the banjo. I chatter about gardening and crafts on my blog, <a href="http://ameliafannin.com/blog" target="blank">ameliafannin.com/blog</a>, and compile the monthly newsletter for the Rock Meadow Victory Gardens. 
  
 ---
 
@@ -75,30 +79,30 @@ layout: index
 **[ameliafannin.com](http://ameliafannin.com)** | **[ameliafannin.com/blog](http://ameliafannin.com/blog)**    
 **(713)444-0081**
 
+##### Skills
+* Ruby, Rails and Sinatra
+* Python, Flask
+* Go 
+* HTML
+* CSS
+* basic Javascript
+
+##### Projects
+* DailyBirds, Flask app that tracks and displays local bird sightings
+* Chitter, a Rails app resembling Twitter
+* Project Euler problems 1 - 58 in Ruby, Go, Javascript, and Python 
+* simple_prime, a Go package that returns a channel of prime numbers
+
+#####  Tech Community Events
+* RailsBridge Boston (teaching assistant), September 2014
+* RailsBridge Boston (attendee), January 2014
+* Boston RB, Boston Ruby Women, and BostonJS meetups
+
 ##### Education
 * **Doctor of Music** *2009* - The Florida State University 
 * **Master of Music** *2006* - Eastman School of Music 
 * **Bachelor of Music Performance** *2004* - University of North Texas
 * **Bachelor of Music Education** *2004* - University of North Texas
-
-##### Skills
-* Ruby
-* Rails
-* Go 
-* HTML
-* CSS
-* (basic) Javascript
-
-##### Projects
-* Chitter, a Rails practice app resembling Twitter
-* Project Euler problems 1 - 57 in Ruby, Go, Javascript, and Python 
-* Exercism.io Ruby problems 1 - 6
-* simple_prime, a Go package that returns a channel of prime numbers
-
-##### Community Events
-* RailsBridge Boston (teaching assistant), September 2014
-* RailsBridge Boston (attendee), January 2014
-* Boston RB, Boston Ruby Women, and BostonJS meetups
 
 ##### Employment
 * **Freelance Orchestral Musician & Teacher** *2001 - present*
