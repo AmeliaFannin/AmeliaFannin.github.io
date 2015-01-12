@@ -3,16 +3,20 @@ layout: index
 ---
 ####About Me
 
- Almost three years ago I began my transition from a career in classical music to programming. I started by learning a little javascript and css, but soon became interested in Ruby. I've always loved puzzles, but things got serious when I found myself coding solutions to math and logic problems for fun. The strategies that I used to become an expert musician - study, critique, and practice - are just as relevant when learning programming. I have created apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. I attended and now volunteer as a teaching assistant with RailsBridge Boston. I am looking for new challenges, the open exchange of ideas, the stability of a salary, and the camaraderie of colleagues.  
+ Almost three years ago I began my transition from a career in classical music to programming. I started by learning a little javascript and css, and soon became interested in Ruby. I've always loved puzzles, but things got serious when I found myself coding solutions to math and logic problems for fun. The strategies that I used to become an expert musician - study, critique, and practice - are just as relevant when learning programming. I have created apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. I attended and now volunteer as a teaching assistant with RailsBridge Boston. I am looking for new challenges, the open exchange of ideas, the stability of a salary, and the camaraderie of colleagues.  
 
 <div class="col">
   <h3>Code Samples</h3>
   <ul>
     <li>
-      Daily Birds, uses eBird API, Flask, jquery, and bootstrap to track and map local bird sightings.
+      Daily Birds, uses the eBird API to track and map local bird sightings.
       <a href="https://github.com/AmeliaFannin/Daily_Birds" target="_blank">
         Github Repo
       </a>
+    </li>
+    <li>
+      ColorWork, an in-browser canvas for knitted colorwork designs
+      <a href="https://github.com/AmeliaFannin/colorwork" target="_blank">Github Repo</a>
     </li>
     <li>
       <a href="https://young-sands-6021.herokuapp.com" target="_blank">
@@ -55,9 +59,9 @@ layout: index
   <ul>
     <li>Ruby, Rails and Sinatra</li>
     <li>Python, Flask</li>
+    <li>Javascript, JQuery</li>
     <li>HTML</li>
     <li>CSS, Sass, and Bootstrap</li>
-    <li>basic Javascript</li>
     <li>Go</li> 
   </ul>
 </div>
@@ -66,7 +70,7 @@ layout: index
 ####Background
 
 
-I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my way through music school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I play the bassoon and recently started learning the banjo. I chatter about gardening and crafts on my blog, <a href="http://ameliafannin.com/blog" target="blank">ameliafannin.com/blog</a>, and compile the monthly newsletter for the Rock Meadow Victory Gardens. 
+I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my way through music school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I play the bassoon and a bit of banjo. I chatter about gardening and crafts on my blog, <a href="http://ameliafannin.com/blog" target="blank">ameliafannin.com/blog</a>, and compile the monthly newsletter for the Rock Meadow Victory Gardens. After growing up in Houston and living in Dallas, Rochester, Tallahassee, Miami, and Baltimore, I am happy to finally settle down and make my home in Cambridge, MA.
  
 ---
 
@@ -82,13 +86,14 @@ I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my w
 ##### Skills
 * Ruby, Rails and Sinatra
 * Python, Flask
-* Go 
+* Javascript, JQuery
 * HTML
-* CSS
-* basic Javascript
+* CSS, Sass, Bootstrap
+* Go 
 
 ##### Projects
 * DailyBirds, Flask app that tracks and displays local bird sightings
+* Colorwork, an in-browser canvas for knitted colorwork designs
 * Chitter, a Rails app resembling Twitter
 * Project Euler problems 1 - 58 in Ruby, Go, Javascript, and Python 
 * simple_prime, a Go package that returns a channel of prime numbers
