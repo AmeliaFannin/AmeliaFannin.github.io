@@ -15,7 +15,8 @@ layout: index
       </a>
     </li>
     <li>
-      ColorWork, an in-browser canvas for knitted colorwork designs
+      <a href="https://salty-gorge-2567.herokuapp.com/grid.html" target="_back">ColorWork</a>
+      , an in-browser canvas for knitted colorwork designs
       <a href="https://github.com/AmeliaFannin/colorwork" target="_blank">Github Repo</a>
     </li>
     <li>
