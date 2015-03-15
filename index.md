@@ -3,11 +3,14 @@ layout: index
 ---
 ####About Me
 
- Almost three years ago I began my transition from a career in classical music to programming. I started by learning a little javascript and css, and soon became interested in Ruby. I've always loved puzzles, but things got serious when I found myself coding solutions to math and logic problems for fun. The strategies that I used to become an expert musician - study, critique, and practice - are just as relevant when learning programming. I have created apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. I attended and now volunteer as a teaching assistant with RailsBridge Boston. I am looking for new challenges, the open exchange of ideas, the stability of a salary, and the camaraderie of colleagues.  
+ Almost three years ago I began my transition from a career in classical music to programming. I started by learning a little javascript and css, and soon became interested in Ruby. I've always loved puzzles, but things got serious when I found myself coding solutions to math and logic problems for fun. The strategies that I used to become an expert musician - study, critique, and practice - are just as relevant when learning programming. I have created apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. I attended and now volunteer as a teaching assistant with RailsBridge Boston. I am looking for new challenges, the open exchange of ideas, and the camaraderie of colleagues.  
 
 <div class="col">
   <h3>Code Samples</h3>
   <ul>
+    <li>
+      <a href="https://itunes.apple.com/us/app/skippys-garden-spring-planting/id970091991?mt=8" target="_blank">Skippy's Garden Spring Planting Calendar, iOS app.</a>
+    </li>
     <li>
       Daily Birds, uses the eBird API to track and map local bird sightings.
       <a href="https://github.com/AmeliaFannin/Daily_Birds" target="_blank">
@@ -18,15 +21,6 @@ layout: index
       <a href="https://salty-gorge-2567.herokuapp.com/grid.html" target="_back">ColorWork</a>
       , an in-browser canvas for knitted colorwork designs
       <a href="https://github.com/AmeliaFannin/colorwork" target="_blank">Github Repo</a>
-    </li>
-    <li>
-      <a href="https://young-sands-6021.herokuapp.com" target="_blank">
-        Chitter
-      </a>
-       , a Rails project resembling Twitter
-      <a href="https://github.com/AmeliaFannin/chitter_app" target="_blank">
-        Github Repo
-      </a>
     </li>
     <li>
       Project Euler problems 1 - 58 in Ruby, Go, Javascript, and Python
@@ -58,9 +52,10 @@ layout: index
 <div class= "col">
   <h3>Skills</h3>
   <ul>
-    <li>Ruby, Rails and Sinatra</li>
+    <li>Ruby, Sinatra</li>
     <li>Python, Flask</li>
     <li>Javascript, JQuery</li>
+    <li>PhoneGap</li>
     <li>HTML</li>
     <li>CSS, Sass, and Bootstrap</li>
     <li>Go</li> 
@@ -85,14 +80,16 @@ I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my w
 **(713)444-0081**
 
 ##### Skills
-* Ruby, Rails and Sinatra
+* Ruby, Sinatra
 * Python, Flask
 * Javascript, JQuery
+* PhoneGap
 * HTML
 * CSS, Sass, Bootstrap
 * Go 
 
 ##### Projects
+* Skippy's Garden Spring Planting Calendar, an iOS app for gardeners
 * DailyBirds, Flask app that tracks and displays local bird sightings
 * Colorwork, an in-browser canvas for knitted colorwork designs
 * Chitter, a Rails app resembling Twitter
