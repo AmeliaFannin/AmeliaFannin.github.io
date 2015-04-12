@@ -10,21 +10,20 @@ layout: index
   <ul>
     <li>
       <a href="https://itunes.apple.com/us/app/skippys-garden-full-season/id970091991?mt=8" target="_blank">Skippy's Garden Planting Calendar</a>
-      , an iOS app<br>
-      Phonegap/Cordova, jQuery, moment.js, ratchet
+      , an iOS app
     </li>
     <li>
-      Daily Birds, uses the eBird API to track and map local bird sightings.<br>
-      python, flask, bootstrap, leaflet.js, mapbox<br>
+      Daily Birds, uses the eBird API to track and map local bird sightings.
       <a href="https://github.com/AmeliaFannin/Daily_Birds" target="_blank">
         Github Repo
       </a>
     </li>
     <li>
       <a href="https://salty-gorge-2567.herokuapp.com/grid.html" target="_back">ColorWork</a>
-      , an in-browser canvas for knitted colorwork designs<br>
-      sinatra, jQuery, bootstrap<br>
-      <a href="https://github.com/AmeliaFannin/colorwork" target="_blank">Github Repo</a>
+      , an in-browser canvas for knitted colorwork designs
+      <a href="https://github.com/AmeliaFannin/colorwork" target="_blank">
+        Github Repo
+      </a>
     </li>
     <li>
       Project Euler problems 1 - 58 in Ruby, Go, Javascript, and Python
