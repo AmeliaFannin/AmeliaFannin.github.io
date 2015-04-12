@@ -10,20 +10,20 @@ layout: index
   <ul>
     <li>
       <a href="https://itunes.apple.com/us/app/skippys-garden-full-season/id970091991?mt=8" target="_blank">Skippy's Garden Planting Calendar</a>
-      <p>, an iOS app<p>
-      <p>Phonegap/Cordova, jQuery, moment.js, ratchet<p>
+      , an iOS app<br>
+      Phonegap/Cordova, jQuery, moment.js, ratchet
     </li>
     <li>
       Daily Birds, uses the eBird API to track and map local bird sightings.<br>
-      <p>python, flask, bootstrap, leaflet.js, mapbox<p>
+      python, flask, bootstrap, leaflet.js, mapbox<br>
       <a href="https://github.com/AmeliaFannin/Daily_Birds" target="_blank">
         Github Repo
       </a>
     </li>
     <li>
       <a href="https://salty-gorge-2567.herokuapp.com/grid.html" target="_back">ColorWork</a>
-      <p>, an in-browser canvas for knitted colorwork designs<p>
-      sinatra, jQuery, bootstrap
+      , an in-browser canvas for knitted colorwork designs<br>
+      sinatra, jQuery, bootstrap<br>
       <a href="https://github.com/AmeliaFannin/colorwork" target="_blank">Github Repo</a>
     </li>
     <li>
