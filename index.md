@@ -3,13 +3,13 @@ layout: index
 ---
 ####About Me
 
- Almost three years ago I began my transition from a career in classical music to programming. I started on the front-end, learning a little javascript, html, and css but soon became interested in ruby and python. I've always loved puzzles, but things got serious when I found myself coding solutions to math and logic problems just for fun. The strategies that I used to become an expert musician - study, critique, and practice - are just as relevant when learning programming. I have created web apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. My most recent freelance work - an iOS app for gardeners - has sold over 100 copies. I learn quickly - I read the docs, sift through stack-overflow, ask questions, and test things out. I am looking for new challenges, the open exchange of ideas, and the camaraderie of colleagues.  
+ Almost three years ago I began my transition from a career in classical music to programming. I started on the front-end, learning a javascript, html, and css but soon also became interested in ruby and python. I've always loved puzzles, but things got serious when I found myself coding solutions to math and logic problems just for fun. The strategies that I used to become an expert musician - study, critique, and practice - are just as relevant when learning programming. I have created web apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. My most recent freelance work - iOS and Android apps for gardeners - have sold over 200 copies. I learn quickly - I read the docs, sift through stack-overflow, ask questions, and test things out. I am looking for new challenges, the open exchange of ideas, and the camaraderie of colleagues.  
 
 <div class="col">
   <h3>Code Samples</h3>
   <ul>
     <li>
-      <a href="https://itunes.apple.com/us/app/skippys-garden-full-season/id970091991?mt=8" target="_blank">Skippy's Garden Planting Calendar</a>
+      <a href="https://itunes.apple.com/us/developer/katherine-martin/id970091990" target="_blank">Skippy's Garden Vegetable Planting Calendars</a>
       , an iOS app
     </li>
     <li>
@@ -55,8 +55,8 @@ layout: index
 <div class= "col">
   <h3>Skills</h3>
   <ul>
-    <li>Python, Flask</li>
     <li>Ruby, Sinatra, Rails</li>
+    <li>Python, Flask</li>
     <li>Javascript, JQuery</li>
     <li>PhoneGap/Cordova</li>
     <li>HTML</li>
@@ -69,7 +69,7 @@ layout: index
 ####Background
 
 
-I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my way through music school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I play the bassoon and a bit of banjo. I chatter about gardening and crafts on my blog, <a href="http://ameliafannin.com/blog" target="blank">ameliafannin.com/blog</a>, and compile the monthly newsletter for the Rock Meadow Victory Gardens. After growing up in Houston and living in Dallas, Rochester, Tallahassee, Miami, and Baltimore, I am happy to make my home in Cambridge, MA.
+I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my way through music school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I play the bassoon and am learning banjo. I write about gardening on my blog, <a href="http://ameliafannin.com" target="blank">ameliafannin.com</a>, and compile the monthly newsletter for the Rock Meadow Victory Gardens. After growing up in Houston and living in Dallas, Rochester, Tallahassee, Miami, and Baltimore, I am happy to make my home in Cambridge, MA.
  
 ---
 
@@ -79,7 +79,7 @@ I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my w
 
 ## Amelia Fannin
 **[ameliafannin@gmail.com](mailto://ameliafannin@gmail.com)**    
-**[ameliafannin.com](http://ameliafannin.com)** | **[ameliafannin.com/blog](http://ameliafannin.com/blog)**    
+**[ameliafannin.com](http://ameliafannin.com)**   
 **(713)444-0081**
 
 ##### Skills
@@ -92,7 +92,7 @@ I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my w
 * Go 
 
 ##### Projects
-* Skippy's Garden Planting Calendar, an iOS app for gardeners
+* Skippy's Garden Planting Calendars, iOS and Android apps for gardeners
 * DailyBirds, Flask app that tracks and displays local bird sightings
 * Colorwork, an in-browser canvas for knitted colorwork designs
 * Chitter, a Rails app resembling Twitter
