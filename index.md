@@ -10,7 +10,7 @@ layout: index
   <ul>
     <li>
       <a href="https://itunes.apple.com/us/developer/katherine-martin/id970091990" target="_blank">Skippy's Garden Vegetable Planting Calendars</a>
-      , an iOS app
+      , iOS and Android apps for gardeners
     </li>
     <li>
       Daily Birds, uses the eBird API to track and map local bird sightings.
