@@ -3,10 +3,10 @@ layout: index
 ---
 ####About Me
 
- Almost three years ago I began my transition from a career in classical music to programming. I started on the front-end, learning a javascript, html, and css but soon also became interested in ruby and python. I've always loved puzzles, but things got serious when I found myself coding solutions to math and logic problems just for fun. The strategies that I used to become an expert musician - study, critique, and practice - are just as relevant when learning programming. I have created web apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. My most recent freelance work - iOS and Android apps for gardeners - have sold over 200 copies. I learn quickly - I read the docs, sift through stack-overflow, ask questions, and test things out. I am looking for new challenges, the open exchange of ideas, and the camaraderie of colleagues.  
+ I am looking for an opportunity to join a team and gain experience with large scale projects. My gardening apps for iOS and Android have sold almost 300 copies, and I'll be releasing app #5 any day now. I have created web apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. I learn quickly - I read the docs, sift through stack-overflow, ask questions, and test things out. No computer science degree here, but the strategies that I used to become an expert orchestral musician - study, critique, and practice - are just as relevant when learning programming.
 
 <div class="col">
-  <h3>Code Samples</h3>
+  <h3>Projects and Code Samples</h3>
   <ul>
     <li>
       <a href="https://itunes.apple.com/us/developer/katherine-martin/id970091990" target="_blank">Skippy's Garden Vegetable Planting Calendars</a>
@@ -55,13 +55,13 @@ layout: index
 <div class= "col">
   <h3>Skills</h3>
   <ul>
-    <li>Ruby, Sinatra, Rails</li>
-    <li>Python, Flask</li>
     <li>Javascript, JQuery</li>
-    <li>PhoneGap/Cordova</li>
     <li>HTML</li>
     <li>CSS, Sass, and Bootstrap</li>
-    <li>Go</li> 
+    <li>Ruby, Sinatra, Rails</li>
+    <li>Python, Flask</li>
+    <li>Go</li>
+    <li>PhoneGap/Cordova</li> 
   </ul>
 </div>
 
@@ -69,12 +69,12 @@ layout: index
 ####Background
 
 
-I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my way through music school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I play the bassoon and am learning banjo. I write about gardening on my blog, <a href="http://ameliafannin.com" target="blank">ameliafannin.com</a>, and compile the monthly newsletter for the Rock Meadow Victory Gardens. After growing up in Houston and living in Dallas, Rochester, Tallahassee, Miami, and Baltimore, I am happy to make my home in Cambridge, MA.
+I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my way through music school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I played and taught the bassoon professionally for about 10 years and am now learning to play the banjo for fun. I write about gardening and cooking on my blog, <a href="http://ameliafannin.com" target="blank">ameliafannin.com</a>, and compile the monthly newsletter for the Rock Meadow Victory Gardens. I grew up in Houston and lived in Dallas, Rochester, Tallahassee, Miami, and Baltimore, but Cambridge feels like home.
  
 ---
 
 <div class="resume-head">
-  <h2><a href="/fannin_resume_2015.pdf" rel="download">Resume</a></h2>
+  <h2><a href="/fannin_resume_2016.pdf" rel="download">Resume</a></h2>
 </div>
 
 ## Amelia Fannin
@@ -83,13 +83,13 @@ I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my w
 **(713)444-0081**
 
 ##### Skills
-* Ruby, Sinatra, Rails
-* Python, Flask
 * Javascript, JQuery
-* PhoneGap/Cordova
 * HTML
 * CSS, Sass, Bootstrap
-* Go 
+* Ruby, Sinatra, Rails
+* Python, Flask
+* Go
+* PhoneGap/Cordova
 
 ##### Projects
 * Skippy's Garden Planting Calendars, iOS and Android apps for gardeners
@@ -111,6 +111,7 @@ I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my w
 * **Bachelor of Music Education** *2004* - University of North Texas
 
 ##### Employment
+* **Freelance Web Developer and App Builder** *2014 - present*
 * **Freelance Orchestral Musician & Teacher** *2001 - present*
 * **Adjunct Professor of Music** *2012* - Howard Community College, Columbia, MD 
 * **Box Office Manager** *Summer 2010* - Palm Beach Chamber Music Festival
