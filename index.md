@@ -1,6 +1,6 @@
 ---
 layout: index
-
+---
 
 ###About Me
 
