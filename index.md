@@ -2,7 +2,7 @@
 layout: index
 ---
 
-###About Me
+#### About Me
 
 I am looking for an opportunity to join a team and gain experience with large scale projects. My gardening apps for iOS and Android have sold over 600 copies since 2015. I have created web apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. I learn quickly - I read the docs, sift through stack-overflow, ask questions, and test things out. No computer science degree, but the strategies that I used to become an expert orchestral musician - study, critique, and practice - are just as relevant when learning programming.
 
@@ -67,7 +67,7 @@ I am looking for an opportunity to join a team and gain experience with large sc
 </div>
 
 
-###Background
+#### Background
 
 
 I've earned four degrees but only my mother calls me "Dr. Fannin." I worked my way through music school in a variety of college office positions, wrangling databases, spreadsheets, regrettable websites, and keeping the musicians organized. I played and taught the bassoon professionally for about 10 years and am now learning to play the banjo for fun. I write about gardening and cooking on my blog, <a href="http://ameliafannin.com" target="blank">ameliafannin.com</a>, and compile the monthly newsletter for the Rock Meadow Victory Gardens. I grew up in Houston and lived in Dallas, Rochester, Tallahassee, Miami, and Baltimore, but Cambridge feels like home.
