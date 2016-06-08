@@ -1,6 +1,7 @@
 ---
 layout: index
----
+
+
 ###About Me
 
 I am looking for an opportunity to join a team and gain experience with large scale projects. My gardening apps for iOS and Android have sold over 600 copies since 2015. I have created web apps in Rails, Sinatra, and Flask, solved the first 58 Project Euler problems in a variety of languages, and am comfortable working in the command line. I learn quickly - I read the docs, sift through stack-overflow, ask questions, and test things out. No computer science degree, but the strategies that I used to become an expert orchestral musician - study, critique, and practice - are just as relevant when learning programming.
