@@ -13,6 +13,8 @@ I am looking for an opportunity to join a team and gain experience with large sc
       <a href="https://itunes.apple.com/us/developer/katherine-martin/id970091990" target="_blank">Skippy's Garden Vegetable Planting Calendars</a>
       , iOS and Android apps for gardeners
     </li>
+    <li><a href="http://codepen.io/AmeliaFannin/" target="_blank">CSS Samples in CodePen</a>
+    </li>
     <li>
       Daily Birds, uses the eBird API to track and map local bird sightings.
       <a href="https://github.com/AmeliaFannin/Daily_Birds" target="_blank">
