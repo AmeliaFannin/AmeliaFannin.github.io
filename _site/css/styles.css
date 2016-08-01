@@ -97,6 +97,10 @@ table {
 .icon-github:before {
   content: '\e802'; }
 
+.icon-codepen:before {
+  content: '\f216';
+}
+
 /* '' */
 .icon-twitter:before {
   content: '\e803'; }
