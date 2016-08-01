@@ -7,9 +7,9 @@ layout: index
 I am an early-career web developer, ready to join a team. I learn quickly - I eat tutorials for breakfast and actually read books about programming. No computer science degree, but the strategies that I used to become an expert orchestral musician - study, critique, and practice - are completely relevant. 
 
 ####Freelance Work
-Skippy’s Vegetable Planting Calendar App - Spring 2015, updated 2016
-Skippy’s Spring, Fall, & Winter Calendar Apps - Spring 2015, updated 2016
-Skippy’s Flower and Herb Planting calendar - Spring 2016
+* **Skippy’s Vegetable Planting Calendar App** *Spring 2015, updated 2016*
+* **Skippy’s Spring, Fall, & Winter Calendar Apps** *Spring 2015, updated 2016*
+* **Skippy’s Flower and Herb Planting Calendar** *Spring 2016*
 
 Created for iOS and Android using PhoneGap, I built this series of apps for Katherine Martin of Skippy's Garden Blog. The "Skippy" apps help gardeners choose crops, calculate planting and transplanting dates, and send text reminders. Over 600 copies have been purchased by users all over the world. 
 
