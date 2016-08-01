@@ -4,7 +4,7 @@ layout: index
 
 #### About Me
 
-I learn quickly - I eat tutorials for breakfast and actually read books about programming. No computer science degree, but the strategies that I used to become an expert orchestral musician - study, critique, and practice - are completely relevant. 
+I am an early-career web developer, ready to join a team. I learn quickly - I eat tutorials for breakfast and actually read books about programming. No computer science degree, but the strategies that I used to become an expert orchestral musician - study, critique, and practice - are completely relevant. 
 
 ####Freelance Work
 Skippy’s Vegetable Planting Calendar App - Spring 2015, updated 2016
