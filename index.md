@@ -6,7 +6,7 @@ layout: index
 
 I am an early-career web developer, ready to join a team. I learn quickly - I eat tutorials for breakfast and actually read books about programming. No computer science degree, but the strategies that I used to become an expert orchestral musician - study, critique, and practice - have served me well as a programmer. 
 
-####Freelance Work
+#### Freelance Work
 * **Skippy’s Vegetable Planting Calendar App** *Spring 2015, updated 2016*
 * **Skippy’s Spring, Fall, & Winter Calendar Apps** *Spring 2015, updated 2016*
 * **Skippy’s Flower and Herb Planting Calendar** *Spring 2016*
