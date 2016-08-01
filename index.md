@@ -84,9 +84,9 @@ I've earned four degrees but only my mother calls me "Dr. Fannin." I played and 
 * PhoneGap/Cordova
 
 ##### Freelance Work
-* Skippy’s Vegetable Planting Calendar App - Spring 2015, updated 2016
-* Skippy’s Spring, Fall, & Winter Calendar Apps - Spring 2015, updated 2016
-* Skippy’s Flower and Herb Planting calendar - Spring 2016
+* **Skippy’s Vegetable Planting Calendar App** *Spring 2015, updated 2016*
+* **Skippy’s Spring, Fall, & Winter Calendar Apps** *Spring 2015, updated 2016*
+* **Skippy’s Flower and Herb Planting Calendar** *Spring 2016*
 
 Created for iOS and Android using PhoneGap, I built this series of apps for Katherine Martin of Skippy's Garden Blog. The "Skippy" apps help gardeners choose crops, calculate planting and transplanting dates, and send text reminders. Over 600 copies have been purchased by users all over the world. 
 
@@ -102,8 +102,8 @@ Created for iOS and Android using PhoneGap, I built this series of apps for Kath
 * **Bachelor of Music Education** - University of North Texas
 
 ##### Employment
-* **Freelance Web Developer *2014 - present*
-* **Master Gardener and Garden Educator *2016*
+* **Freelance Web Developer** *2014 - present*
+* **Master Gardener and Garden Educator** *2016*
 * **Freelance Orchestral Musician & Teacher** *2004 - 2014*
 * **Adjunct Professor of Music** *2012* - Howard Community College, Columbia, MD 
 
