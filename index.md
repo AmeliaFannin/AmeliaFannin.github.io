@@ -11,14 +11,13 @@ I am an early-career web developer, ready to join a team. I learn quickly - I ea
 * **Skippy’s Spring, Fall, & Winter Calendar Apps** *Spring 2015, updated 2016*
 * **Skippy’s Flower and Herb Planting Calendar** *Spring 2016*
 
-Created for iOS and Android using PhoneGap, I built this series of apps for Katherine Martin of Skippy's Garden Blog. The "Skippy" apps help gardeners choose crops, calculate planting and transplanting dates, and send text reminders. Over 600 copies have been purchased by users all over the world. 
+Created for iOS and Android using PhoneGap, I built this series of apps for Katherine Martin of <a href="http://carletongarden.blogspot.com/" target="_blank">Skippy's Garden Blog</a>. The "Skippy" apps help gardeners choose crops, calculate planting and transplanting dates, and send text reminders. Over 600 copies have been purchased by users all over the world. 
 
 <div class="col">
   <h3>Projects and Code Samples</h3>
   <ul>
     <li>
-      <a href="https://itunes.apple.com/us/developer/katherine-martin/id970091990" target="_blank">Skippy's Garden Vegetable Planting Calendars</a>
-      , iOS and Android apps for gardeners
+      <a href="https://itunes.apple.com/us/developer/katherine-martin/id970091990" target="_blank">Skippy's Garden Vegetable Planting Calendars</a>, iOS and Android apps for gardeners
     </li>
     <li><a href="http://codepen.io/AmeliaFannin/" target="_blank">CSS Samples in CodePen</a>
     </li>
