@@ -20,7 +20,6 @@ Created for iOS and Android using PhoneGap, I built this series of apps for Kath
   <ul>
     <li>
       <a href="https://itunes.apple.com/us/developer/katherine-martin/id970091990" target="_blank">Skippy's Garden Vegetable Planting Calendars</a>, iOS and Android apps for gardeners
-      <a href="https://gist.github.com/AmeliaFannin/a58fcdb5d9e3f48bf51bfcb2768da153" target="_blank">GitHub Gist</a>
     </li>
     <li>
       <a href="http://codepen.io/AmeliaFannin/pen/JKqZEq" target="_blank">Image Gallery with Sliding Captions</a> jQuery Plugin
