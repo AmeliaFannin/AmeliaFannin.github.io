@@ -14,12 +14,17 @@ I am an early-career web developer, ready to join a team. I learn quickly - I ea
 Created for iOS and Android using PhoneGap, I built this series of apps for Katherine Martin of <a href="http://carletongarden.blogspot.com/" target="_blank">Skippy's Garden Blog</a>. The "Skippy" apps help gardeners choose crops, calculate planting and transplanting dates, and send text reminders. Over 600 copies have been purchased by users all over the world. 
 
 <div class="col">
-  <h3>Projects and Code Samples</h3>
+  
+  </h4>Projects and Code Samples</h4>
+  
   <ul>
     <li>
       <a href="https://itunes.apple.com/us/developer/katherine-martin/id970091990" target="_blank">Skippy's Garden Vegetable Planting Calendars</a>, iOS and Android apps for gardeners
     </li>
-    <li><a href="http://codepen.io/AmeliaFannin/" target="_blank">CSS Samples in CodePen</a>
+    <li>
+      <a href="http://codepen.io/AmeliaFannin/pen/JKqZEq" target="_blank">Image Gallery with Sliding Captions</a> JQuery Plugin
+    </li>
+    <li><a href="http://codepen.io/AmeliaFannin/pen/oLZzWb" target="_blank">CSS Alphabet</a>
     </li>
     <li>
       Daily Birds, uses the eBird API to track and map local bird sightings.
