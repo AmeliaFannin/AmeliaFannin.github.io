@@ -22,7 +22,8 @@ Created for iOS and Android using PhoneGap, I built this series of apps for Kath
       <a href="https://itunes.apple.com/us/developer/katherine-martin/id970091990" target="_blank">Skippy's Garden Vegetable Planting Calendars</a>, iOS and Android apps for gardeners
     </li>
     <li>
-      <a href="http://codepen.io/AmeliaFannin/pen/JKqZEq" target="_blank">Image Gallery with Sliding Captions</a> jQuery Plugin
+      <a href="http://codepen.io/AmeliaFannin/pen/ozvOgR" target="_blank">Image Gallery with Sliding Captions, using React</a>, or as a
+      <a href="http://codepen.io/AmeliaFannin/pen/JKqZEq" target="_blank">jQuery Plugin</a>
     </li>
     <li>
       <a href="http://codepen.io/AmeliaFannin/pen/oLZzWb" target="_blank">CSS Alphabet</a>, created for fun using BEM method
